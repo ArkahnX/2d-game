@@ -167,3 +167,8 @@ pip-log.txt
 *.dll
 *.exe
 *.pak
+
+game/*
+data/*
+mods/*
+engine/*
